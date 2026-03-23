@@ -36,7 +36,7 @@
 - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
 - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
 -<img width="1437" height="335" alt="image" src="https://github.com/user-attachments/assets/af8da285-e666-49c1-932f-a62b3b07693d" />
-- append메소드 잘 활용하여 간결함.
+- append메소드 잘 활용하여 간결함. ㅎㅎ
 
 
 ## 회고(참고 링크 및 코드 개선)
